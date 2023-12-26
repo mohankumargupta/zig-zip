@@ -47,5 +47,9 @@ index 49eb8ac..8bfab17 100644
 ```
 
 
-3. Run zig build run
+3. Run 
+
+ ```sh
+    zig build run
+```
 
